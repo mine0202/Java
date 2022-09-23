@@ -43,7 +43,7 @@ public class Sec0201 {
         x = y;
         y=temp;
         System.out.println("x:"+x+", y:"+y);
-
+        
 
     }
 
@@ -53,10 +53,12 @@ public class Sec0201 {
 //        v1 > 10 출력 10보다 큼
 //        아니면 10보다 작음
         if (v1 >10){
-            System.out.println("10보다 큼");
+            int v2 = 10 ;
+            System.out.println(v2+"보다 큼");
         }
         else {
             System.out.println("10보다 작음");
         }
+//        int result = v2 +20; // 에러발생
     }
 }
