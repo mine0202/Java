@@ -4,6 +4,9 @@ import chap02.Sec0203;
 import chap02.Sec0204;
 import chap03.Sec0301;
 import chap04.Sec0401;
+import chap04.Sec0402;
+import chap05.Sec0501;
+import chap05.Sec0502;
 
 
 public class JavaApplication {
@@ -67,8 +70,19 @@ public class JavaApplication {
 //        Sec0301 sec0301 = new Sec0301();
 //        sec0301.exam11();
 
-            Sec0401 sec0401= new Sec0401();
-            sec0401.exam02();
+//            Sec0401 sec0401= new Sec0401();
+//            sec0401.exam02();
+//            sec0401.exam07();
+
+//        Sec0402 sec0402 = new Sec0402();
+//        sec0402.exam01();
+//        sec0402.exam08();
+
+//        Sec0501 sec0501 = new Sec0501();
+//        sec0501.stringEqualExam01();
+
+        Sec0502 sec0502 = new Sec0502();
+        sec0502.getStudent();
     }
 
 }
