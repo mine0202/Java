@@ -7,6 +7,7 @@ import chap04.Sec0401;
 import chap04.Sec0402;
 import chap05.Sec0501;
 import chap05.Sec0502;
+import chap05.Sec0503;
 
 
 public class JavaApplication {
@@ -15,6 +16,7 @@ public class JavaApplication {
 //    다른 클래스 (객체) 사용하는 함수를 출력용, 입력용 등으로 최종 사용
     public static void main(String[] args) throws java.io.IOException {
         //    객체를 생성해서 함수를 호출함 : 객체 지향 코딩
+
         //    클래스명(객체명) 변수명 = new(메모리에 객체 생성 명령) 객체생성자함수(클래스명());
 //  todo      Sec0101 sec0101 = new Sec0101();
         // 객체 함수 호출
@@ -81,8 +83,23 @@ public class JavaApplication {
 //        Sec0501 sec0501 = new Sec0501();
 //        sec0501.stringEqualExam01();
 
-        Sec0502 sec0502 = new Sec0502();
-        sec0502.getStudent();
+//        Sec0502 sec0502 = new Sec0502();
+//        sec0502.getStudent();
+//        sec0502.ArrayCreateByValueList();
+//        sec0502.ArrayCreateByNew();
+//        sec0502.exam01();
+//          sec0502.ArrayCreateByValueList2();
+//            sec0502.ArrayInArray();
+
+//        sec0502.ArrayCopyByForExample();
+//        sec0502.AdvanceForExample();
+
+//        Sec0503 sec0503 = new Sec0503();
+//        sec0503.EnumWeek();
+
+
+
     }
+
 
 }
