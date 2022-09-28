@@ -49,8 +49,6 @@ public class Sec0203 {
         double doubleValue = 3.14;
         intValue = (int)doubleValue;
         System.out.println(intValue);
-
-
     }
 
     public void exam03(){
@@ -76,7 +74,6 @@ public class Sec0203 {
         int y1 =2 ;
         double result10 = (double) x1/y1;
         System.out.println(result10);
-
     }
 
     public void exam06(){

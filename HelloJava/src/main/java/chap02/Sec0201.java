@@ -43,8 +43,6 @@ public class Sec0201 {
         x = y;
         y=temp;
         System.out.println("x:"+x+", y:"+y);
-        
-
     }
 
     public void exam04(){
@@ -59,6 +57,6 @@ public class Sec0201 {
         else {
             System.out.println("10보다 작음");
         }
-//        int result = v2 +20; // 에러발생
+//        int result = v2 +20;
     }
 }
