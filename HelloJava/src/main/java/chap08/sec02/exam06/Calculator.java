@@ -11,33 +11,32 @@ package chap08.sec02.exam06;
  * —————————————————————————————
  * 2022-09-30         ds          최초 생성
  */
-public class Calculator implements Calc{
+public class Calculator implements Calc {
     @Override
     public int add(int num1, int num2) {
-        return num1+num2;
+        return num1 + num2;
     }
 
     @Override
     public int substract(int num1, int num2) {
-        return num1-num2;
+        return num1 - num2;
     }
 
     @Override
     public int times(int num1, int num2) {
-        return num1*num2;
+        return num1 * num2;
     }
 
     @Override
     public int divide(int num1, int num2) {
-        if( num2 == 0){
+        if (num2 == 0) {
             return Calc.ERROR;
-        }
-        else{
-            return num1/num2;
+        } else {
+            return num1 / num2;
         }
     }
 
-    public void showInfo(){
+    public void showInfo() {
         System.out.println("간단한 사칙연산 계산기 입니다.");
     }
 }
