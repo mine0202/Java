@@ -11,6 +11,10 @@ package chap11.sec01.exam03;
  * —————————————————————————————
  * 2022-10-04         ds          최초 생성
  */
+
+//어노페이션 : 일종의 함수하고 비슷.
+// lombok 라이브러리 @Data : @EqualsAndHashCode 등 포함.
+// lombok 라이브러리 @EqualsAndHashCode  : .equals() , .hashcode() 가 미리 재정의 됨
 public class SmartPhone {
     private String company;
     private String os;
