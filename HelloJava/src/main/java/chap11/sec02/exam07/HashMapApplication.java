@@ -23,5 +23,6 @@ import java.util.Map;
             map.put(new Student(1,"홍길동"), 95);
 
             System.out.println("총 Entry 수 : "+ map.size());
+
         }
     }
