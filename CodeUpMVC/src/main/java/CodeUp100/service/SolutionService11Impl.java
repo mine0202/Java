@@ -68,7 +68,6 @@ public class SolutionService11Impl implements SolutionService{
         System.out.println("정수를 입력하세요");
         int intInput = scanner.nextInt();
         solution.setStrResult(intInput +" "+ intInput+" " +intInput);
-
         return solution;
     }
 
@@ -84,10 +83,22 @@ public class SolutionService11Impl implements SolutionService{
 //1019 : [기초-입출력] 연월일 입력받아 그대로 출력하기
     @Override
     public Solution CodeUp1008(Solution solution) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("연월일을 입력하세요");
+        String[] result = scanner.nextLine().split("\\.");
+        int iresult = Integer.parseInt(result[0]);
+        int iresult1 = Integer.parseInt(result[1]);
+        int iresult2= Integer.parseInt(result[2]);
+        String strResult = String.format("%02d.%02d.%02d",iresult,iresult1,iresult2);
+        solution.setStrResult(strResult);
         return solution;
     }
 
-//  1020 : [기초-입출력] 주민번호 입력받아 형태 바꿔 출력하기
+    @Override
+    public Solution CodeUp1009(Solution solution) {
+        return solution;
+    }
+
     @Override
     public Solution CodeUp1010(Solution solution) {
         Scanner scanner = new Scanner(System.in);

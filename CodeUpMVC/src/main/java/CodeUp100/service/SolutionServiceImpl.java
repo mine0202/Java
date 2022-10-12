@@ -62,6 +62,11 @@ public class SolutionServiceImpl implements SolutionService{
 
 
     @Override
+    public Solution CodeUp1009(Solution solution) {
+        return solution;
+    }
+
+    @Override
     public Solution CodeUp1010(Solution solution) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("정수를 입력하세요");

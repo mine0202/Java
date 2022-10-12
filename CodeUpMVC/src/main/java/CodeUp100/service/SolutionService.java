@@ -14,7 +14,7 @@ public interface SolutionService {
      Solution CodeUp1006(Solution solution);
      Solution CodeUp1007(Solution solution);
      Solution CodeUp1008(Solution solution);
-//     Solution CodeUp1009(Solution solution);
+     Solution CodeUp1009(Solution solution);
      Solution CodeUp1010(Solution solution);
 
 

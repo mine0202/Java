@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb39080d-7a46-4067-9e82-e40bcfb1d485" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/CodeUpMVC/src/main/java/CodeUp100/service/SolutionService21Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUpMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUpMVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUpMVC/out/production/classes/CodeUp100/JavaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUpMVC/out/production/classes/CodeUp100/JavaApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUpMVC/out/production/classes/CodeUp100/service/SolutionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUpMVC/out/production/classes/CodeUp100/service/SolutionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUpMVC/out/production/classes/CodeUp100/service/SolutionService11Impl.class" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUpMVC/out/production/classes/CodeUp100/service/SolutionService11Impl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUpMVC/out/production/classes/CodeUp100/service/SolutionServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUpMVC/out/production/classes/CodeUp100/service/SolutionServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUpMVC/src/main/java/CodeUp100/JavaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUpMVC/src/main/java/CodeUp100/JavaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUpMVC/src/main/java/CodeUp100/service/SolutionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUpMVC/src/main/java/CodeUp100/service/SolutionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUpMVC/src/main/java/CodeUp100/service/SolutionService11Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUpMVC/src/main/java/CodeUp100/service/SolutionService11Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUpMVC/src/main/java/CodeUp100/service/SolutionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUpMVC/src/main/java/CodeUp100/service/SolutionServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G0ymM11TlnOt9ZbXu0mtlSscu7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/DSHRD/JAVA/GitHub/Java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="fb39080d-7a46-4067-9e82-e40bcfb1d485" name="변경" comment="" />
+      <created>1665539953608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665539953608</updated>
+      <workItem from="1665539955382" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

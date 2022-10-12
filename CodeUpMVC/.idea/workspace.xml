@@ -5,41 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63ab7445-075c-4594-92f3-693b342564cd" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/JavaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/model/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService11Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloJava/src/main/java/jungsuk/chap12/Ex12_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloJava/src/main/java/jungsuk/chap14/Ex14_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloJava/src/main/java/jungsuk/chap14/Ex14_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloJava/src/main/java/jungsuk/chap14/Ex14_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloJava/src/main/java/jungsuk/chap14/StreamApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloJava/out/production/classes/jungsuk/chap11/Ex11_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloJava/out/production/classes/jungsuk/chap11/Ex11_19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloJava/src/main/java/jungsuk/chap11/Ex11_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloJava/src/main/java/jungsuk/chap11/Ex11_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService21Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/JavaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/CodeUp100/JavaApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionService11Impl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionService11Impl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/JavaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/JavaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService11Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService11Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +60,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -104,8 +79,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/DSHRD/JAVA/JavaTest-20221012T011329Z-001/JavaTest",
     "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
@@ -113,6 +91,13 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="CodeUp100.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DSHRD\JAVA\GitHub\Java\CodeUpMVC\src\main\java\CodeUp100\test7" />
+      <recent name="D:\DSHRD\JAVA\GitHub\Java\CodeUpMVC\src\main\java\CodeUp100\test6" />
+      <recent name="D:\DSHRD\JAVA\GitHub\Java\CodeUpMVC\src\main\java\CodeUp100\test5" />
+      <recent name="D:\DSHRD\JAVA\GitHub\Java\CodeUpMVC\src\main\java\CodeUp100\test4" />
+      <recent name="D:\DSHRD\JAVA\GitHub\Java\CodeUpMVC\src\main\java\CodeUp100\test3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="CodeUp100.service" />
@@ -128,6 +113,12 @@
       <updated>1665468202773</updated>
       <workItem from="1665468205020" duration="1946000" />
       <workItem from="1665470177425" duration="7755000" />
+      <workItem from="1665532683523" duration="4248000" />
+      <workItem from="1665539977426" duration="1201000" />
+      <workItem from="1665541392769" duration="10000" />
+      <workItem from="1665542592912" duration="8900000" />
+      <workItem from="1665557256108" duration="339000" />
+      <workItem from="1665557854570" duration="3250000" />
     </task>
     <servers />
   </component>
