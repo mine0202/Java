@@ -4,6 +4,7 @@ import CodeUp100.model.Solution;
 import CodeUp100.service.SolutionService;
 import CodeUp100.service.SolutionService11Impl;
 import CodeUp100.service.SolutionService21Impl;
+import CodeUp100.service.SolutionService31Impl;
 
 //실행클래스
 public class JavaApplication {
@@ -15,7 +16,9 @@ public class JavaApplication {
 //        11~20번
 //        SolutionService solutionService = new SolutionService11Impl();
 //        21~30번
-        SolutionService solutionService = new SolutionService21Impl();
+//        SolutionService solutionService = new SolutionService21Impl();
+//        31~40번
+        SolutionService solutionService = new SolutionService31Impl();
 
 //        solutionService.CodeUp1001(solution);
 ////        결과출력, Getter 이용 값 가져오기
@@ -26,12 +29,12 @@ public class JavaApplication {
 //////
 //        solutionService.CodeUp1003(solution);
 //        System.out.println(solution.getStrResult());
-////
-//        solutionService.CodeUp1004(solution);
-//        System.out.println(solution.getStrResult());
-////
-        solutionService.CodeUp1005(solution);
+//////
+        solutionService.CodeUp1006(solution);
         System.out.println(solution.getStrResult());
+//////
+//        solutionService.CodeUp1005(solution);
+//        System.out.println(solution.getStrResult());
 //
 //        solutionService.CodeUp1006(solution);
 //        System.out.println(solution.getStrResult());
@@ -44,7 +47,7 @@ public class JavaApplication {
 //
 //        solutionService.CodeUp1009(solution);
 //        System.out.printf(solution.getStrResult());
-//
+
 //        solutionService.CodeUp1010(solution);
 //        System.out.println(solution.getStrResult());
 

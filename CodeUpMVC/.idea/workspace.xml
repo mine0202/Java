@@ -5,16 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63ab7445-075c-4594-92f3-693b342564cd" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService21Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService31Impl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/JavaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/CodeUp100/JavaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionService11Impl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionService11Impl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/SoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionService21Impl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/CodeUp100/service/SolutionService21Impl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test1/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test1/BoardApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test2/MemberApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test2/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test3/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test3/InstanceOfApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test3/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test4/SnowTire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test4/Tire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test4/TireApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test4/WideTire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test5/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test5/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test5/Soundable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test5/SoundableApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test6/DaoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test6/DataAccessObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test6/Db2Dao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test6/MySqlDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test6/OracleDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test7/AService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test7/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test7/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test7/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CodeUp100/test7/ServiceApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/JavaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/JavaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService11Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService11Impl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/SoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService21Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeUp100/service/SolutionService21Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeUp100/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,17 +104,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/DSHRD/JAVA/JavaTest-20221012T011329Z-001/JavaTest",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DSHRD/JAVA/GitHub/Java/CodeUpMVC&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="CodeUp100.service" />
@@ -119,6 +146,8 @@
       <workItem from="1665542592912" duration="8900000" />
       <workItem from="1665557256108" duration="339000" />
       <workItem from="1665557854570" duration="3250000" />
+      <workItem from="1665619514355" duration="7247000" />
+      <workItem from="1665627485280" duration="941000" />
     </task>
     <servers />
   </component>
